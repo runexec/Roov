@@ -1,7 +1,7 @@
 ### Roov [roo-vee]. Rotten Tomatoes Movie API Wrapper
     
 ###### API Key Setup
-Set your Rotten Tomatoes API key in Roov.core.clj
+Set your Rotten Tomatoes API key in Roov/core.clj
     
 ###### Quick Example
         (ns Roov.example
