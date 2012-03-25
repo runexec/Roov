@@ -1,3 +1,4 @@
+[![endorse](http://api.coderwall.com/runexec/endorsecount.png)](http://coderwall.com/runexec)
 ### Roov [roo-vee]. Rotten Tomatoes Movie API Wrapper
     
 ###### API Key Setup
